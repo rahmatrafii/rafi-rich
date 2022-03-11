@@ -4,3 +4,4 @@ rafi skilss
 -react.js
 -git-github
 -html/css
+-python 
