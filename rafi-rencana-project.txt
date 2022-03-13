@@ -6,3 +6,5 @@ RENCANA PROJECT RAFI
 -membuat website travel
 -membuat website sistem login
 -membuat website informasi
+-membuat kalkulator menggunakan javascript
+ *mode malam dan siang
