@@ -7,3 +7,6 @@ RENCANA PROJECT RAFI
 -membuat website sistem login
 -membuat game pukul tikus menggunakan javascript 
  *menambahkan bebrapa hewan
+-membuat kalkulator menggunakan javascript
+ *mode malam dan siang
+
