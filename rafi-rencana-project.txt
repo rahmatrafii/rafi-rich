@@ -5,3 +5,4 @@ RENCANA PROJECT RAFI
  *lebih kompleks dan keren
 -membuat website travel
 -membuat website sistem login
+-membuat website informasi
