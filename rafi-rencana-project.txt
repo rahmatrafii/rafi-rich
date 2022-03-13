@@ -1,5 +1,7 @@
 RENCANA PROJECT RAFI
 
 -membuat portfolio baru
+ *lebih interaktif 
+ *lebih kompleks dan keren
 -membuat website travel
 -membuat website sistem login
